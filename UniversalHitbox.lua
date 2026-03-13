@@ -1,4 +1,4 @@
-local link = "https://work.ink/23kL/operation-one-script"
+local link = "https://work.ink/23kL/universal-hitbox"
 local correctKey = "6352-7462-6583-74626"
 
 setclipboard(link)
